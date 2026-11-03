@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="🏆🏆WORLD CUP 2026🏆🏆"", EVENT PPV1
+https://github.com/playalden278/Aldenpremium78/blob/main/README.md#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="🏆🏆WORLD CUP 2026🏆🏆"", EVENT PPV1
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwKoHAa9Sb3DoSwIaBzCHds2Ha1A47tBihmjvKmkFCRBmanvhrQ9dw7s&s=10" group-title="🏆🏆WORLD CUP 2026🏆🏆"", EVENT PPV2
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship2.m3u8
